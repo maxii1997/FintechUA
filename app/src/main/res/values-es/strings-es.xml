@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lircayhub</string>
+    <string name="welcome_title">Bienvenido(a) a LircayHUB</string>
+    <string name="welcome_message">¡Gracias por usar nuestra aplicación!</string>
+    <string name="accept">Aceptar</string>
+    <string name="summary">Resumen</string>
+    <string name="budget">Presupuesto</string>
+    <string name="category">Categoría</string>
+    <string name="title_generate_budget">Generar Presupuesto</string>
+    <string name="hint_enter_budget">Ingrese el presupuesto deseado</string>
+    <string name="btn_generate_budget">Generar Presupuesto</string>
+    <string name="hint_budget">Presupuesto</string>
+    <string name="button_save">Guardar</string>
+    <string name="text_rent_mortgage">Rent/Mortgage</string>
+    <string name="text_food">Food</string>
+    <string name="text_transportation">Transportation</string>
+    <string name="text_utilities">Utilities</string>
+    <string name="text_education">Education</string>
+    <string name="text_debts">Debts</string>
+    <string name="text_savings_investments">Savings and Investments</string>
+    <string name="hint_rent_mortgage">Enter rent/mortgage amount</string>
+    <string name="hint_food">Enter food amount</string>
+    <string name="hint_transportation">Enter transportation amount</string>
+    <string name="hint_utilities">Enter utilities amount</string>
+    <string name="hint_education">Enter education amount</string>
+    <string name="hint_debts">Enter debts amount</string>
+    <string name="hint_savings_investments">Enter savings/investments amount</string>
+    <string name="button_calculate_budget">Calculate Budget</string>
+    <string name="menu_presupuesto">Presupuesto</string>
+    <string name="menu_gastos">Gastos</string>
+    <string name="menu_ver_gastos">Ver Gastos</string>
+    <string name="menu_generar_presupuesto">Preferencias</string>
+    <string name="menu_mapa">Mapa</string>
+    <string name="valor_dolar">Valor del dólar: $</string>
+    <string name="valor_uf">Valor de la UF: $</string>
+    <string name="nombre_hint">Nombre</string>
+    <string name="apellidos_hint">Apellidos</string>
+    <string name="correo_hint">Correo</string>
+    <string name="telefono_hint">Teléfono</string>
+    <string name="fecha_nacimiento_hint">Fecha de Nacimiento</string>
+</resources>
